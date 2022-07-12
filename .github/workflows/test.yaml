@@ -1,4 +1,4 @@
-name: RPT Action
+name: RPT
 
 on:
     workflow_dispatch:
